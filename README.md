@@ -1,2 +1,2 @@
 # ML
-Machine Learning 2023 Spring in NJU SE.
+Machin Learning 2023-spring code in NJU SE
